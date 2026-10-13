@@ -4,8 +4,8 @@
 
 | 所属平台 | SDK 下载 | Demo运行说明 | SDK集成指引 | 64位支持 | 安装包增量 |
 |:---------:| :--------:| :--------:| :--------:| :--------:|:--------:|
-| iOS | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Smart_iOS_latest.zip)|[DOC](https://github.com/tencentyun/MLVBSDK/blob/master/iOS/README.md)|[DOC](https://cloud.tencent.com/document/product/454/7876)|支持|1.90M（arm64）|
-| Android | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Smart_Android_latest.zip)| [DOC](https://github.com/tencentyun/MLVBSDK/blob/master/Android/README.md)|[DOC](https://cloud.tencent.com/document/product/454/7877)|支持| jar：1.7M；<br> so(armeabi)：8.8 M；<br> so(armeabi-v7a)：7.7M；<br>so(arm64-v8a)：11.4M |
+| iOS | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Smart_iOS_latest.zip)|[DOC](https://github.com/tencentyun/MLVBSDK/blob/master/iOS/README.md)|[DOC](https://cloud.tencent.com/document/product/454/7876)|支持|1.90M（arm64）|
+| Android | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Smart_Android_latest.zip)| [DOC](https://github.com/tencentyun/MLVBSDK/blob/master/Android/README.md)|[DOC](https://cloud.tencent.com/document/product/454/7877)|支持| jar：1.7M；<br> so(armeabi)：8.8 M；<br> so(armeabi-v7a)：7.7M；<br>so(arm64-v8a)：11.4M |
 
 
 > 阅读文档 [如何缩减安装包体积](https://cloud.tencent.com/document/product/647/34400) 了解如何减少 SDK 带来的安装包体积增量。
@@ -20,8 +20,8 @@ TRTC SDK 是隶属于腾讯视频云 LiteAV 框架下的一款终端产品，我
 
 | 所属平台 | 下载地址 | Github | 64位支持 | 安装包增量 |
 |:---------:| :--------:| :--------:| :--------:|:--------:|
-| iOS | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Professional_iOS_latest.zip) | [Github](https://github.com/tencentyun/LiteAVProfessional_iOS) | 支持 | 4.08M（arm64）|  [DOC](https://cloud.tencent.com/document/product/647/34400) |
-| Android | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Professional_Android_latest.zip) | [Github](https://github.com/tencentyun/LiteAVProfessional_Android) | 支持 | jar：1.5M；<br> so(armeabi)：6.5M；<br> so(armeabi-v7a)：6.1M；<br>so(arm64-v8a)：7.3M| [DOC](https://cloud.tencent.com/document/product/647/34400) |
+| iOS | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Professional_iOS_latest.zip) | [Github](https://github.com/tencentyun/LiteAVProfessional_iOS) | 支持 | 4.08M（arm64）|  [DOC](https://cloud.tencent.com/document/product/647/34400) |
+| Android | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Professional_Android_latest.zip) | [Github](https://github.com/tencentyun/LiteAVProfessional_Android) | 支持 | jar：1.5M；<br> so(armeabi)：6.5M；<br> so(armeabi-v7a)：6.1M；<br>so(arm64-v8a)：7.3M| [DOC](https://cloud.tencent.com/document/product/647/34400) |
 
 > Windows 和 Mac 版本的 SDK 暂时只有一个版本，没有做精简版、专业版和企业版的区分。
 
@@ -31,8 +31,8 @@ LiteAVSDK 的企业版，除了包含专业版的所有功能以外，还集成�
 
 | 所属平台 | 下载地址 | 64位支持 | 安装包增量 | 安装包瘦身|
 |:---------:| :--------:| :--------:|:--------:|:--------:|
-| iOS | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Enterprise_iOS_latest.zip) |支持|4.08M（arm64）|  [DOC](https://cloud.tencent.com/document/product/454/34927) |
-| Android | [DOWNLOAD](http://liteavsdk-1252463788.cosgz.myqcloud.com/TXLiteAVSDK_Enterprise_Android_latest.zip)|支持|  jar：2.3M；so(armeabi)：20.4M |[DOC](https://cloud.tencent.com/document/product/454/34927) |
+| iOS | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Enterprise_iOS_latest.zip) |支持|4.08M（arm64）|  [DOC](https://cloud.tencent.com/document/product/454/34927) |
+| Android | [DOWNLOAD](https://liteav.sdk.qcloud.com/download/latest/TXLiteAVSDK_Enterprise_Android_latest.zip)|支持|  jar：2.3M；so(armeabi)：20.4M |[DOC](https://cloud.tencent.com/document/product/454/34927) |
 
 > Windows 和 Mac 版的 SDK 暂无 AI 特效组件，没有做精简版、专业版和企业版的区分。
 
